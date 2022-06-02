@@ -1,3 +1,10 @@
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AydanMurshud&theme=neon-dark&date_format=j%20M%5B%20Y%5D&border=DD2727)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AydanMurshud)](https://github.com/AydanMurshud/github-readme-stats)
+
+
+
+
+
 # Hello World!👋 
 It's Aydan a programming enthusiast with huge sense of hummor /you can find some funny stuff on my codes 🤣/ eager to learn new things and love to have fun while learning.
 
@@ -17,8 +24,6 @@ Well, that can summarize my passion to solve problems, experiment and learn how 
 
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AydanMurshud&theme=neon-dark&date_format=j%20M%5B%20Y%5D&border=DD2727)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AydanMurshud)](https://github.com/AydanMurshud/github-readme-stats)
 
 <!--
 **AydanMurshud/AydanMurshud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
