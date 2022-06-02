@@ -1,4 +1,20 @@
-### Hi there 👋
+# Hello World!👋 
+It's Aydan a programming enthusiast with huge sense of hummor /you can find some funny stuff on my codes 🤣/ eager to learn new things and love to have fun while learning.
+
+<!-- something interesting here!
+## 🤴 About me 
+
+Sice early ages I was always curios how the world works and always wanted to solve problems that I encounter such as: 
+
+**6- years old Me**
+
+-Why sea water is salty? 🤔 and proceed to put some sugar on it 🤣. 
+
+Well, that can summarize my passion to solve problems, experiment and learn how the world works. But the world changed since that time and the problems we encounter and will encounter will be connected with technologies -->
+
+
+
+
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AydanMurshud&theme=neon-dark&date_format=j%20M%5B%20Y%5D&border=DD2727)](https://git.io/streak-stats)
