@@ -1,4 +1,27 @@
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=AydanMurshud&count_private=true&theme=tokyonight&showicons=true)]()
+<div align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Codeing guy Logo" width ="150" /></br>
+  <a href="https://www.facebook.com"> <img heigth="20" width="100" src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt=""/></a>
+  <a href=""><img heigth="20" width="76" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt=""/></a>
+  <a href=""><img heigth="20" width="98"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""/></a>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=AydanMurshud&count_private=true&theme=tokyonight&showicons=true)]()
 
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AydanMurshud&langs_count=5&theme=tokyonight)]()
