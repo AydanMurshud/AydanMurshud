@@ -1,17 +1,31 @@
-<h1 align="center">Hello👋</h1>
+<html><h1 align="center">Hello👋</h1>
 
-<div align="center">
-  <p>It's Aydan a programming enthusiast with huge sense of hummor /you can find some funny stuff on my codes 🤣/ eager to learn new things and love to have fun while learning.</p>
-  <div>
-    <h3>Here some contacts, if you want to send me some memes...⤵️</h3>
+  <div align="center">
+    <p>It's Aydan a programming enthusiast with huge sense of hummor /you can find some funny stuff on my codes 🤣/ eager to learn new things and love to have fun while learning.</p>
+    </div>
+  <div align="center">
+    <h3>Here some more infoormation about me... 🤴</h3>
+    <p>My name is Aydan Murshud and I'm from Bulgaria 🇧🇬 Sice early ages I was always curios how the world works and always wanted to solve problems that I encounter</p>
+  </div>
+   
+ </html>
+ 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=AydanMurshud&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AydanMurshud&langs_count=5&theme=tokyonight)]()
+
+
+<html>
+  <div align="center">
+  <h3>Here some contacts, if you want to send me some memes...⤵️</h3>
     <p>...or maybe job offer 😉</p>
   <a href="https://www.facebook.com/aydin.idn"> <img heigth="20" width="100" src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt=""/></a>
   <a href=""><img heigth="20" width="76" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt=""/></a>
   <a href="https://www.linkedin.com/in/aydan-murshud-969ba322b?trk=public_profile_browsemap"><img heigth="20" width="98"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""/></a></br>
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Codeing guy Logo" width ="150" />
   </div>
+</html>
+
   
-</div>
 
 
 
@@ -19,7 +33,7 @@
 
 
 
-
+  <div>
 
 
 
