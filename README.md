@@ -1,16 +1,19 @@
 <html><h1 align="center">Hello👋</h1>
 
   <div align="center">
-    <p>It's Aydan a programming enthusiast with huge sense of hummor /you can find some funny stuff on my codes 🤣/ eager to learn new things and love to have fun while learning.</p>
+    <p>It's Aydan a programming enthusiast with huge sense of hummor /you can find some funny stuff on my codes 🤣/ eager to learn new things and love to have fun while learning.</br>
+  My main goal is to become Fullstack developer <span><img src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif" alt="" width="20"/></span></p>
     </div>
   <div align="center">
-    <h3>Here some more infoormation about me... 🤴</h3>
-    <p>My name is Aydan Murshud and I'm from Bulgaria 🇧🇬 Sice early ages I was always curios how the world works and always wanted to solve problems that I encounter</p>
+    <h3>Here is some more info about me... 🤴</h3>
+    <p>My name is Aydan Murshud and I'm from Bulgaria 🇧🇬.</br>
+  Sice early ages I was always curios how the world works and always wanted to solve problems that I encounter</p>
   </div>
    
  </html>
- 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=AydanMurshud&count_private=true&theme=tokyonight&showicons=true)]()
+
+   [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=AydanMurshud&count_private=true&theme=tokyonight&showicons=true)]()
+
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AydanMurshud&langs_count=5&theme=tokyonight)]()
 
 
