@@ -1,22 +1,23 @@
 <html>
- 
+  <h1 align="center">Hello World!👋</h1>
+  <p align="justfy">My name is Aydan Murshud, a programming enthusiast with huge sense of hummor /you can find some funny stuff on my codes 🤣/ eager to learn new things and love to have fun while learning.</br>
+  <h3> About me</h3>
+  I'm azerbaijani 🇦🇿 from Bulgaria 🇧🇬, currently student at SoftUni<span><a href="https://softuni.bg/"><img width="25" src="https://upload.wikimedia.org/wikipedia/commons/7/76/Logo_Software_University_%28SoftUni%29_-_blue.png"/></a></span>, where I'm learning about <strong>Web development</strong> with JavaScript <span><img width="25" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png"/></span></br>
+  
   <div display="inline"align="center">
-  <p>Skills loading...</p>
-  <img width="75" src="https://media.giphy.com/media/xTkcEQACH24SMPxIQg/giphy.gif"/>
-    
-   
+    <p>Skills loading...</p>
+    <img width="75" src="https://media.giphy.com/media/xTkcEQACH24SMPxIQg/giphy.gif"/>
   </div>
   
-  <h1 align="center">Hello👋</h1>
+  Sice early ages I was always curios how the world works and always wanted to solve problems that I encounter
+  </p></br>
+  
+  
+  My main goal is to become Fullstack developer <span><img src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif" alt="" width="30"/></span></br>
   
   <div align="center">
-    <img src="[https://tenor.com/bRPBh.gif](https://c.tenor.com/CzdMW7wnLn8AAAAC/coding.gif)" alt=""/>
-    <p>It's Aydan a programming enthusiast with huge sense of hummor /you can find some funny stuff on my codes 🤣/ eager to learn new things and love to have fun while learning.</br>
-  My main goal is to become Fullstack developer <span><img src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif" alt="" width="30"/></span></p>
-    </div>
-  <div align="center">
     <h3>Here is some more info about me... 🤴</h3>
-    <p>My name is Aydan Murshud and I'm from Bulgaria 🇧🇬.</br>
+    <p></br>
   Sice early ages I was always curios how the world works and always wanted to solve problems that I encounter</p>
   </div>
    
