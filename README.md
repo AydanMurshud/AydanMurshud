@@ -1,16 +1,38 @@
-
-
+<div align="center">
+  <img width="450" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
+</div>
 
 <h1 align="center">Hello World!👋</h1>
-<p align="justfy">My name is Aydan Murshud, a programming enthusiast with huge sense of hummor /you can find some funny stuff on my codes 🤣/ eager to learn new things and love to have fun while learning.</br>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AydanMurshud&theme=tokyonight&date_format=j%20M%5B%20Y%5D&border=DD2727&border)](https://git.io/streak-stats)
-
-
+<p align="center">My name is Aydan Murshud, a programming enthusiast with huge sense of hummor /you can find some funny stuff on my codes 🤣/ eager to learn new things and love to have fun while learning.</p></br>
+<p>I'm azerbaijani 🇦🇿 from Bulgaria 🇧🇬, currently student at SoftUni<span><a href="https://softuni.bg/"><img width="25" src="https://upload.wikimedia.org/wikipedia/commons/7/76/Logo_Software_University_%28SoftUni%29_-_blue.png"/></a></span>, where I'm learning about <strong>Web development</strong> with JavaScript <span><img width="25" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png"/></span></br>
+<h3 align="center">My stats 😎 </h3>
 
 
-  <h3 align="center"> About me</h3>
-  I'm azerbaijani 🇦🇿 from Bulgaria 🇧🇬, currently student at SoftUni<span><a href="https://softuni.bg/"><img width="25" src="https://upload.wikimedia.org/wikipedia/commons/7/76/Logo_Software_University_%28SoftUni%29_-_blue.png"/></a></span>, where I'm learning about <strong>Web development</strong> with JavaScript <span><img width="25" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png"/></span></br>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AydanMurshud&theme=neon-dark&date_format=j%20M%5B%20Y%5D&border=DD2727)]
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AydanMurshud&langs_count=5&theme=tokyonight)]()
+
+
+
+
+
+<p align="justify"> Sice early ages I was always curios how the world works and always wanted to solve problems that I encounter</p>
+
+
+
+<html>
+  <div align="center">
+  <h3>Here you can send me some memes...⤵️</h3>
+    <p>...or maybe job offer 😉</p>
+  <a href="https://www.facebook.com/aydin.idn"> <img heigth="20" width="100" src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt=""/></a>
+  <a href=""><img heigth="20" width="76" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt=""/></a>
+  <a href="https://www.linkedin.com/in/aydan-murshud-969ba322b?trk=public_profile_browsemap"><img heigth="20" width="98"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""/></a></br>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Codeing guy Logo" width ="150" />
+  </div>
+</html>
+
+
+ 
   
   <div display="inline"align="center">
     <p>Skills loading...</p>
@@ -25,8 +47,7 @@
   
   <div align="center">
     <h3>Here is some more info about me... 🤴</h3>
-    <p></br>
-  Sice early ages I was always curios how the world works and always wanted to solve problems that I encounter</p>
+    <p>Sice early ages I was always curios how the world works and always wanted to solve problems that I encounter</p>
   </div>
    
  </html>
@@ -34,16 +55,7 @@
    
 
 
-<html>
-  <div align="center">
-  <h3>Here some contacts, if you want to send me some memes...⤵️</h3>
-    <p>...or maybe job offer 😉</p>
-  <a href="https://www.facebook.com/aydin.idn"> <img heigth="20" width="100" src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt=""/></a>
-  <a href=""><img heigth="20" width="76" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt=""/></a>
-  <a href="https://www.linkedin.com/in/aydan-murshud-969ba322b?trk=public_profile_browsemap"><img heigth="20" width="98"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""/></a></br>
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Codeing guy Logo" width ="150" />
-  </div>
-</html>
+
 
   
 
