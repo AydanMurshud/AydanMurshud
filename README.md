@@ -1,8 +1,18 @@
-<html><h1 align="center">Hello👋</h1>
-
+<html>
+ 
+  <div display="inline"align="center">
+  <p>Skills loading...</p>
+  <img width="75" src="https://media.giphy.com/media/xTkcEQACH24SMPxIQg/giphy.gif"/>
+    
+   
+  </div>
+  
+  <h1 align="center">Hello👋</h1>
+  
   <div align="center">
+    <img src="[https://tenor.com/bRPBh.gif](https://c.tenor.com/CzdMW7wnLn8AAAAC/coding.gif)" alt=""/>
     <p>It's Aydan a programming enthusiast with huge sense of hummor /you can find some funny stuff on my codes 🤣/ eager to learn new things and love to have fun while learning.</br>
-  My main goal is to become Fullstack developer <span><img src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif" alt="" width="20"/></span></p>
+  My main goal is to become Fullstack developer <span><img src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif" alt="" width="30"/></span></p>
     </div>
   <div align="center">
     <h3>Here is some more info about me... 🤴</h3>
