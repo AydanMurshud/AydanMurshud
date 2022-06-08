@@ -1,10 +1,10 @@
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AydanMurshud&theme=tokyonight&date_format=j%20M%5B%20Y%5D&border=DD2727&border)](https://git.io/streak-stats)
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AydanMurshud&langs_count=10&theme=tokyonight)]()
+
 
 <h1 align="center">Hello World!👋</h1>
 <p align="justfy">My name is Aydan Murshud, a programming enthusiast with huge sense of hummor /you can find some funny stuff on my codes 🤣/ eager to learn new things and love to have fun while learning.</br>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AydanMurshud&theme=tokyonight&date_format=j%20M%5B%20Y%5D&border=DD2727&border)](https://git.io/streak-stats)
 
 
 
