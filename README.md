@@ -1,3 +1,8 @@
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=AydanMurshud&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AydanMurshud&langs_count=5&theme=tokyonight)]()
+
+
+
 <html>
   <h1 align="center">Hello World!👋</h1>
   <p align="justfy">My name is Aydan Murshud, a programming enthusiast with huge sense of hummor /you can find some funny stuff on my codes 🤣/ eager to learn new things and love to have fun while learning.</br>
@@ -23,9 +28,7 @@
    
  </html>
 
-   [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=AydanMurshud&count_private=true&theme=tokyonight&showicons=true)]()
-
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AydanMurshud&langs_count=5&theme=tokyonight)]()
+   
 
 
 <html>
