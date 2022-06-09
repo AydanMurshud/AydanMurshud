@@ -9,7 +9,7 @@ Sice early ages I was always curios how the world works and always wanted to sol
 <h3 align="center">Programming stuff... 😅 </h3>
 <p align="justify">Currently I'm a student at <span><a href="https://softuni.bg/"><img width="85" src="https://about.softuni.bg/Content/images/svg-logos/softuni-logo-white.svg"/></a></span>, where I'm learning about <strong>Web development</strong> with <span><img width="25" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png"/></span>, but I'm also interested in Data sciance 🗄️ , Machine Learning 🤖 and A.I. 🧠 </br> 
 
-<p align="center"> My main goal is to become Fullstack developer level!</p></br><div align="center"><img width="180" src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif"/></br></br>
+<p align="center"> My main goal is to become Fullstack developer!</p></br><div align="center"><img width="180" src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif"/></br></br>
 
 Currently proefficient:</br></br>
 <span><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"/></span>
