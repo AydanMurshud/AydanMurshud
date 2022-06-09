@@ -3,14 +3,41 @@
 </div>
 
 <h1 align="center">Hello World!👋</h1>
-<p align="center">My name is Aydan Murshud, a programming enthusiast with huge sense of hummor /you can find some funny stuff on my codes 🤣/ eager to learn new things and love to have fun while learning.</p></br>
-<p>I'm azerbaijani 🇦🇿 from Bulgaria 🇧🇬, currently student at SoftUni<span><a href="https://softuni.bg/"><img width="25" src="https://upload.wikimedia.org/wikipedia/commons/7/76/Logo_Software_University_%28SoftUni%29_-_blue.png"/></a></span>, where I'm learning about <strong>Web development</strong> with JavaScript <span><img width="25" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png"/></span></br>
-<h3 align="center">My stats 😎 </h3>
+<p align="center">My name is Aydan Murshud, a programming enthusiast with huge sense of hummor /you can find some funny stuff on my codes 🤣/ eager to learn new things and love to have fun while learning.</br></br>
+Sice early ages I was always curios how the world works and always wanted to solve problems that I encounter, experiment and build stuff. The era of technologies has it's own problems and I'm eager to develop solutions for those problems, build stuff for better future and do it while having fun, becouse when a person does what he loves it's always fun.</br></p>
+
+<h3 align="center">Programming stuff... 😅 </h3>
+<p align="justify">Currently I'm a student at SoftUni<span><a href="https://softuni.bg/"><img width="25" src="https://upload.wikimedia.org/wikipedia/commons/7/76/Logo_Software_University_%28SoftUni%29_-_blue.png"/></a></span>, where I'm learning about <strong>Web development</strong> with JavaScript <span><img width="25" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png"/></span>, but I'm also interested in Data sciance, Machine Learning and A.I.  My main goal is to reach Fullstack developer level <span><img src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif" alt="" width="30"/></span></br></br>
+
+Currently proefficient:</br>
+<span><img width="50" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png"/></span></br>
+<span></span></br>
+<span></span></br>
+</p>
+<h4 align="center">My stats 😎 </h4>
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AydanMurshud&theme=neon-dark&date_format=j%20M%5B%20Y%5D&border=DD2727)]
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AydanMurshud&theme=neon-dark&date_format=j%20M%5B%20Y%5D&border=DD2727)
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AydanMurshud&langs_count=5&theme=tokyonight)]()
+
+
+
+<h3 align="center">A little bit about me... 😎🤘</h3>
+<p align="justify">I'm 28, azerbaijani 🇦🇿 who was born and rised in Bulgaria 🇧🇬 somewhere around Black sea 😏 </br>
+Languages:</br>
+  🇬🇧 English: almost native 😅</br>
+  🇧🇬 Bulgarian: native</br>
+  🇦🇿 Azerbaijani: native</br>
+  🇹🇷 Turkish: native</br>
+  🇷🇺 Russian: I understand, but it is hard for me to speak</br>
+Education:</br> 
+University of Economics - Varna  <span><a href="https://ue-varna.bg/"><img width="25" src="https://e-learn.ue-varna.bg/pluginfile.php/1/theme_moove/logo/1648193654/logo_bg.png"/></a></span> [2012-2017] - Master degree in Global Commercial Business</p>
+
+
+
+
+
 
 
 
