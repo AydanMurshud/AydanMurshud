@@ -48,18 +48,6 @@ Education:</br>
 University of Economics - Varna  <span><a href="https://ue-varna.bg/"><img width="25" src="https://e-learn.ue-varna.bg/pluginfile.php/1/theme_moove/logo/1648193654/logo_bg.png"/></a></span> [2012-2017] - Master degree in Global Commercial Business</p>
 
 
-
-
-
-
-
-
-
-
-<p align="justify"> Sice early ages I was always curios how the world works and always wanted to solve problems that I encounter</p>
-
-
-
 <html>
   <div align="center">
   <h3>Here you can send me some memes...⤵️</h3>
@@ -74,10 +62,7 @@ University of Economics - Varna  <span><a href="https://ue-varna.bg/"><img width
 
  
   
-  <div display="inline"align="center">
-    <p>Skills loading...</p>
-    <img width="75" src="https://media.giphy.com/media/xTkcEQACH24SMPxIQg/giphy.gif"/>
-  </div>
+ 
   
  
 <!--[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=AydanMurshud&count_private=true&theme=tokyonight&showicons=true)]()
