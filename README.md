@@ -36,7 +36,7 @@ Currently proefficient:</br></br>
 
 
 
-<h3 align="center">A little bit about me... 😎🤘</h3>
+<h3 align="center">A little bit about me... 🤘😎</h3>
 <p align="justify">I'm 28, azerbaijani 🇦🇿 who was born and rised in Bulgaria 🇧🇬 somewhere around Black sea 😏 </br>
 Languages:</br>
   🇺🇸 English: almost native 😅</br>
