@@ -7,37 +7,27 @@
 Sice early ages I was always curios how the world works and always wanted to solve problems that I encounter, experiment and build stuff. The era of technologies has it's own problems and I'm eager to develop solutions for those problems, build stuff for better future and do it while having fun, becouse when a person does what he loves it's always fun.</br></p>
 
 <h3 align="center">Programming stuff... 😅 </h3>
-<p align="justify">Currently I'm a student at <span><a href="https://softuni.bg/"><img width="85" src="https://about.softuni.bg/Content/images/svg-logos/softuni-logo-white.svg"/></a></span>, where I'm learning about <strong>Web development</strong> with <span><img width="25" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png"/></span>, but I'm also interested in Data sciance 🗄️ , Machine Learning 🤖 and A.I. 🧠 </br> 
+<p align="justify">Currently I'm a junior front end developer at <span><a href="https://https://accedia.com"><img width="85" src="https://accedia.com/wp-content/themes/understrap/images/accedia-logo.svg"/></a></span>, where I'm working and learning about <strong>Web development</strong> with <span><img width="25" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"/></span>, but I'm also interested in Data sciance 🗄️ , Machine Learning 🤖 and A.I. 🧠 </br> 
 
 <p align="center"> My main goal is to become Fullstack developer!</p></br><div align="center"><img width="180" src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif"/></br></br>
 
 Currently proefficient:</br></br>
-<span><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"/></span>
-<span><img width="55" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/800px-HTML5_Badge.svg.png"/></span>
-<span><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/800px-CSS3_logo_and_wordmark.svg.png"/></span>
+<span><img width="60" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"/></span>
+<span><img width="60" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"/></span>
+<span><img width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/600px-Typescript.svg.png"/></span>
+<span><img width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/800px-HTML5_Badge.svg.png"/></span>
+<span><img width="55" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/800px-CSS3_logo_and_wordmark.svg.png"/></span>
 <span><img width="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png"/></span>
-<span><img width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Git-logo-white.svg/1920px-Git-logo-white.svg.png"/></span>
-<span><img width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/800px-Visual_Studio_Code_1.35_icon.svg.png"/></span>
-<span><img width="65" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png"/></span>
-
-</p></br>
+<span><img width="120" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Git-logo-white.svg/1920px-Git-logo-white.svg.png"/></span>
+<span><img width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/800px-Visual_Studio_Code_1.35_icon.svg.png"/>
+</br>
 <div display="inline"align="center">
     <p>More skills loading...</p>
     <img width="75" src="https://media.giphy.com/media/xTkcEQACH24SMPxIQg/giphy.gif"/>
 </div></br>
 
-
-<h4 align="center">My stats 😎 </h4>
-
-
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AydanMurshud&theme=neon-dark&date_format=j%20M%5B%20Y%5D&border=DD2727)
-
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AydanMurshud&langs_count=5&theme=tokyonight)]()
-
-
-
 <h3 align="center">A little bit about me... 🤘😎</h3>
-<p align="justify">I'm 28, azerbaijani 🇦🇿 who was born and rised in Bulgaria 🇧🇬 somewhere around Black sea 😏 </br>
+<p align="justify">I'm 29, azerbaijani 🇦🇿 who was born and rised in Bulgaria 🇧🇬 somewhere around Black sea 😏 </br>
 Languages:</br>
   🇺🇸 English: almost native 😅</br>
   🇧🇬 Bulgarian: native</br>
@@ -45,7 +35,7 @@ Languages:</br>
   🇹🇷 Turkish: native</br>
   🇷🇺 Russian: I understand, but it is hard for me to speak</br></br>
 Education:</br> 
-University of Economics - Varna  <span><a href="https://ue-varna.bg/"><img width="25" src="https://e-learn.ue-varna.bg/pluginfile.php/1/theme_moove/logo/1648193654/logo_bg.png"/></a></span> [2012-2017] - Master degree in Global Commercial Business</p>
+University of Economics - Varna  [2012-2017] - Master degree in Global Commercial Business</p>
 
 
 <html>
