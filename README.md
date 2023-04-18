@@ -13,11 +13,16 @@ Sice early ages I was always curios how the world works and always wanted to sol
 
 Currently proefficient:</br></br>
 <span><img width="60" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"/></span>
-<span><img width="60" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"/></span>
 <span><img width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/600px-Typescript.svg.png"/></span>
+<span><img width="60" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"/></span>
+<span><img width="60" src="https://styled-components.com/logo.png"/></span>
+<span><img width="60" src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg"/></span>
+</br>
 <span><img width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/800px-HTML5_Badge.svg.png"/></span>
 <span><img width="55" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/800px-CSS3_logo_and_wordmark.svg.png"/></span>
 <span><img width="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png"/></span>
+<span><img width="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png"/></span>
+</br>
 <span><img width="120" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Git-logo-white.svg/1920px-Git-logo-white.svg.png"/></span>
 <span><img width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/800px-Visual_Studio_Code_1.35_icon.svg.png"/>
 </br>
