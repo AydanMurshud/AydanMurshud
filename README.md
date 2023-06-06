@@ -7,7 +7,7 @@
 Sice early ages I was always curios how the world works and always wanted to solve problems that I encounter, experiment and build stuff. The era of technologies has it's own problems and I'm eager to develop solutions for those problems, build stuff for better future and do it while having fun, becouse when a person does what he loves it's always fun.</br></p>
 
 <h3 align="center">Programming stuff... 😅 </h3>
-<p align="justify">Currently I'm a junior front end developer at <span><a href="https://https://accedia.com"><img width="85" src="https://accedia.com/wp-content/themes/understrap/images/accedia-logo.svg"/></a></span>, where I'm working and learning about <strong>Web development</strong> with <span><img width="25" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"/></span>, but I'm also interested in Data sciance 🗄️ , Machine Learning 🤖 and A.I. 🧠 </br> 
+<p align="justify">Currently I'm a junior front end developer at <span><a target="_blank" href="https://https://accedia.com"><img width="85" src="https://accedia.com/wp-content/themes/understrap/images/accedia-logo.svg"/></a></span>, where I'm working and learning about <strong>Web development</strong> with <span><img width="25" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"/></span>, but I'm also interested in Data sciance 🗄️ , Machine Learning 🤖 and A.I. 🧠 </br> 
 
 <p align="center"> My main goal is to become Fullstack developer!</p></br><div align="center"><img width="180" src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif"/></br></br>
 
