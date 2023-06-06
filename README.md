@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hello World!👋</h1>
-<p align="center">My name is Aydan Murshud, a programming enthusiast with huge sense of hummor /you can find some funny stuff on my codes 🤣/ eager to learn new things and love to have fun while learning.</br></br>
+<p align="center">My name is Aydan Murshud, a programming enthusiast with huge sense of hummor <i>/you can find some funny stuff on my codes 🤣/</i> eager to learn new things and love to have fun while learning.</br></br>
 Sice early ages I was always curios how the world works and always wanted to solve problems that I encounter, experiment and build stuff. The era of technologies has it's own problems and I'm eager to develop solutions for those problems, build stuff for better future and do it while having fun, becouse when a person does what he loves it's always fun.</br></p>
 
 <h3 align="center">Programming stuff... 😅 </h3>
