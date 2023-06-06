@@ -55,7 +55,7 @@ University of Economics - Varna  [2012-2017] - Master degree in Global Commercia
   <h3>Here you can send me some memes...⤵️</h3>
     <p>...or maybe job offer 😉</p>
   <a href="https://www.facebook.com/aydin.idn"> <img heigth="20" width="100" src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt=""/></a>
-  <a href=""><img heigth="20" width="76" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt=""/></a>
+  <a tartget="_blank" href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=aydinmurshud@gmail.com&body=""><img heigth="20" width="76" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt=""/></a>
   <a href="https://www.linkedin.com/in/aydan-murshud-969ba322b?trk=public_profile_browsemap"><img heigth="20" width="98"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""/></a></br>
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Codeing guy Logo" width ="150" />
   </div>
