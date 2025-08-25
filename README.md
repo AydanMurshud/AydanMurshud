@@ -45,25 +45,25 @@ Passionate about **frontend excellence**, **full-stack development**, and delive
 ---
 
 ## 🚀 Personal Projects
-- **AI Kid’s Storytelling App (Oct 2023 – Present):** Full-stack development with .NET & Angular, Stripe payments, UI, and architecture contributions.  
-- **CMS for Blog (Jun 2025 – Present):** Full-stack development with .NET backend & React frontend; planning Docker/cloud deployment.
+🔹 **AI Kid’s Storytelling App (Oct 2023 – Present):** Full-stack development with .NET & Angular, Stripe payments, UI, and architecture contributions.  
+🔹**CMS for Blog (Jun 2025 – Present):** Full-stack development with .NET backend & React frontend; planning Docker/cloud deployment.
 
 ---
 
 ## 🎓 Education
-- **Master’s Degree** in Global Trade Business – University of Economics, Varna (2016–2017)  
-- **Bachelor’s Degree** in Economics and Trade – University of Economics, Varna (2012–2016)  
+🔹 **Master’s Degree** in Global Trade Business – University of Economics, Varna (2016–2017)  
+🔹 **Bachelor’s Degree** in Economics and Trade – University of Economics, Varna (2012–2016)  
 
 ---
 
 ## 🏆 Certifications
-- **AZ-900: Microsoft Azure Fundamentals**
+🔹 **AZ-900: Microsoft Azure Fundamentals**
 
 ---
 
 ## 🌍 Let’s Connect
-- 📧 aydinmurhsud@gmail.com    
-- 🌐 [LinkedIn](https://www.linkedin.com/in/aydan-murshud-969ba322b/) 
+🔹 📧 aydinmurhsud@gmail.com    
+🔹 🌐 [LinkedIn](https://www.linkedin.com/in/aydan-murshud-969ba322b/) 
 
 ---
 
