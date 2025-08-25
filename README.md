@@ -27,8 +27,8 @@ Passionate about **frontend excellence**, **full-stack development**, and delive
 **DevOps & Deployment:**  
 ☁️ Azure | 🛠️ Azure DevOps | 🐳 Docker | 🔁 CI/CD | 🌩️ Cloud Hosting  
 
-**Other Tools:**  
-🔧 Git | ✅ Unit Testing | 🐞 Debugging | ⚡ Performance Optimization  
+**Other Tools & Utilities:**  
+🔧 Git | 🧪 Jest | 🧩 Jasmine | ✅ xUnit | 📬 Postman | 📜 Swagger | 🔑 JWT | 📝 Form Validation | 🐞 Debugging | ⚡ Performance Optimization | 🔄 CI/CD Pipelines | 📦 NPM/Yarn | 🔗 RESTful Services
 
 ---
 
@@ -46,7 +46,7 @@ Passionate about **frontend excellence**, **full-stack development**, and delive
 
 ## 🚀 Personal Projects
 🔹 **AI Kid’s Storytelling App (Oct 2023 – Present):** Full-stack development with .NET & Angular, Stripe payments, UI, and architecture contributions.  
-🔹**CMS for Blog (Jun 2025 – Present):** Full-stack development with .NET backend & React frontend; planning Docker/cloud deployment.
+🔹 **CMS for Blog (Jun 2025 – Present):** Full-stack development with .NET backend & React frontend; planning Docker/cloud deployment.
 
 ---
 
