@@ -1,62 +1,70 @@
-<div align="center">
-  <img width="450" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
-</div>
+# 👋 Hi, I'm Aydan Murshud
 
-<h1 align="center">Hello World!👋</h1>
-<p align="center">My name is Aydan Murshud, a programming enthusiast with huge sense of hummor <i>/you can find some funny stuff on my codes 🤣/</i> eager to learn new things and love to have fun while learning.</br></br>
-Sice early ages I was always curios how the world works and always wanted to solve problems that I encounter, experiment and build stuff. The era of technologies has it's own problems and I'm eager to develop solutions for those problems, build stuff for better future and do it while having fun, because when a person does what he loves it's always fun.</br></p>
+💻 **Software Developer** with ~3 years of experience building scalable, secure, and high-performance applications.  
+Passionate about **frontend excellence**, **full-stack development**, and delivering **impactful solutions**.
 
-<h3 align="center">Programming stuff... 😅 </h3>
-<p align="justify">Currently I'm a software developer at <span><a target="_blank" href="https://accedia.com"><img width="85" src="https://accedia.com/wp-content/themes/understrap/images/accedia-logo.svg"/></a></span>, where I'm working on complex projects with different stack. I'm also interested in Data sciance 🗄️ , Machine Learning 🤖 and A.I. 🧠 </br> 
+---
 
-<p align="center"> My main goal is to become Fullstack developer!</p></br><div align="center"><img width="180" src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif"/></br></br>
+## 🌟 About Me
+🔹 Expertise in **Angular** and **C# .NET**, with strong skills in **React**, **TypeScript**, and **JavaScript**.  
+🔹 Experienced in **full-stack development**, cloud deployment, and CI/CD using **Azure** and **Docker**.  
+🔹 Strong problem-solving and collaborative mindset, committed to building **user-friendly, high-quality software**.  
+🔹 Active on side projects like an **AI Kid’s Storytelling App** and a **custom CMS** for blogs, focusing on architecture, UI, and payment integrations.
 
-Currently proefficient:</br></br>
-<span><img width="60" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"/></span>
-<span><img width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/600px-Typescript.svg.png"/></span>
-<span><img width="60" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"/></span>
-<span><img width="60" src="https://files.readme.io/fed7fbc-765-7652239_react-native-svg-logo-hd-png-download.png"/>
-<span><img width="60" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"/>
-</br>
-<span><img width="80" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"/>
-<span><img width="120" src="https://youteam.io/blog/wp-content/uploads/2022/04/expressjs_logo.png"/>
-<span><img width="80" src="https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png"/>
-</br>
-<span><img width="60" src="https://styled-components.com/logo.png"/></span>
-<span><img width="60" src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg"/></span>
-<span><img width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/800px-HTML5_Badge.svg.png"/></span>
-<span><img width="55" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/800px-CSS3_logo_and_wordmark.svg.png"/></span>
-<span><img width="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png"/></span>
-<span><img width="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png"/></span>
-</br>
-<span><img width="120" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Git-logo-white.svg/1920px-Git-logo-white.svg.png"/></span>
-<span><img width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/800px-Visual_Studio_Code_1.35_icon.svg.png"/>
- 
-</br>
-<div display="inline"align="center">
-    <p>More skills loading...</p>
-    <img width="75" src="https://media.giphy.com/media/xTkcEQACH24SMPxIQg/giphy.gif"/>
-</div></br>
+---
 
-<h3 align="center">A little bit about me... 🤘😎</h3>
-<p align="justify">I'm 29, azerbaijani 🇦🇿 who was born and rised in Bulgaria 🇧🇬 somewhere around Black sea 😏 </br>
-Languages:</br>
-  🇺🇸 English: almost native 😅</br>
-  🇧🇬 Bulgarian: native</br>
-  🇦🇿 Azerbaijani: native</br>
-  🇹🇷 Turkish: native</br>
-  🇷🇺 Russian: I understand, but it is hard for me to speak</br></br>
-Education:</br> 
-University of Economics - Varna  [2012-2017] - Master degree in Global Commercial Business</p>
+## 🛠️ Tech Stack
 
+**Frontend:**  
+🅰️ Angular | ⚛️ React | 📱 React Native | 🟦 TypeScript | 🌐 JavaScript | 🖌️ HTML5 | 🎨 CSS3 | 📱 Responsive Design | 🎛️ UI/UX  
 
-<html>
-  <div align="center">
-  <h3>Here you can send me some memes...⤵️</h3>
-    <p>...or maybe job offer 😉</p>
-  <a href="https://www.facebook.com/aydin.idn"> <img heigth="20" width="100" src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt=""/></a>
-  <a tartget="_blank" href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=aydinmurshud@gmail.com&body=""><img heigth="20" width="76" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt=""/></a>
-  <a href="https://www.linkedin.com/in/aydan-murshud-969ba322b?trk=public_profile_browsemap"><img heigth="20" width="98"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""/></a></br>
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Codeing guy Logo" width ="150" />
-  </div>
-</html>
+**Backend & APIs:**  
+💻 C# .NET | 🟩 Node.js | 🔗 REST APIs | 🔒 Authentication & Authorization  
+
+**Databases:**  
+🗄️ MSSQL | 🐘 PostgreSQL | 🍃 MongoDB  
+
+**DevOps & Deployment:**  
+☁️ Azure | 🛠️ Azure DevOps | 🐳 Docker | 🔁 CI/CD | 🌩️ Cloud Hosting  
+
+**Other Tools:**  
+🔧 Git | ✅ Unit Testing | 🐞 Debugging | ⚡ Performance Optimization  
+
+---
+
+## 📂 Work Experience
+🚀 Working at **Accedia JSC** since **January 2023**, I’ve contributed to multiple client projects, improving **system reliability** ⚡, **security** 🔒, and **usability** 🎨.  
+
+**Key Contributions:**
+
+ 🔹 **CIAM Project (South African Finance Company):** Designed backend flows, multi-factor authentication, and OTP integration to enhance security and reliability.  
+ 🔹 **Personal Loans App (UK Finance Company):** Developed responsive React components with filtering and sorting features integrated with backend APIs.  
+ 🔹 **Advance Pay App (POC):** Built React Native mobile UI components for tracking worked days and earned pay.  
+ 🔹 **Side Projects:** Created a **blog CMS** 📝 and an **AI-powered storytelling app for kids** 🤖📚 with full-stack development, UI improvements, and cloud deployment planning.
+
+---
+
+## 🚀 Personal Projects
+- **AI Kid’s Storytelling App (Oct 2023 – Present):** Full-stack development with .NET & Angular, Stripe payments, UI, and architecture contributions.  
+- **CMS for Blog (Jun 2025 – Present):** Full-stack development with .NET backend & React frontend; planning Docker/cloud deployment.
+
+---
+
+## 🎓 Education
+- **Master’s Degree** in Global Trade Business – University of Economics, Varna (2016–2017)  
+- **Bachelor’s Degree** in Economics and Trade – University of Economics, Varna (2012–2016)  
+
+---
+
+## 🏆 Certifications
+- **AZ-900: Microsoft Azure Fundamentals**
+
+---
+
+## 🌍 Let’s Connect
+- 📧 aydinmurhsud@gmail.com    
+- 🌐 [LinkedIn](https://www.linkedin.com/in/aydan-murshud-969ba322b/) 
+
+---
+
+✨ *I love building software that blends excellent user experience, secure architecture, and performance optimization.*
